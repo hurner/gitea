@@ -43,7 +43,7 @@ import (
 )
 
 const (
-	tplDashboard  base.TplName = "user/dashboard/dashboard"
+	tplDashboard  base.TplName = "home"
 	tplIssues     base.TplName = "user/dashboard/issues"
 	tplMilestones base.TplName = "user/dashboard/milestones"
 	tplProfile    base.TplName = "user/profile"
